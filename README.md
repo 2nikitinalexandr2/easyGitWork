@@ -12,7 +12,7 @@
   +  ` git clone https://github.com/2nikitinalexandr2/easyGitWork.git`
   +   change files or add file in directory easyGitWork( directory that you clone from remote)
       + `git status` 
-      + `git add` or `git add CERTAIN_FILE` (CERTAIN_FILE that was change and you want to track it and push to remote)
+      + `git add .` or `git add all` or `git add CERTAIN_FILE` (CERTAIN_FILE that was change and you want to track it and push to remote)
       + `git commit -m "a comment with meaning"`
       + `git push`
 * ### use https to clone or push:
@@ -26,6 +26,6 @@
   +  `git clone git@github.com:2nikitinalexandr2/easyGitWork.git`
   +   change files or add file in directory easyGitWork( directory that you clone from remote)
       + `git status` 
-      + `git add` or `git add CERTAIN_FILE` (CERTAIN_FILE that was change and you want to track it and push to remote)
+      + `git add .` or `git add all` or `git add CERTAIN_FILE` (CERTAIN_FILE that was change and you want to track it and push to remote)
       + `git commit -m "a comment with meaning"`
       + `git push`
