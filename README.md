@@ -1,0 +1,2 @@
+# easyGitWork
+easyGitWork_manual
